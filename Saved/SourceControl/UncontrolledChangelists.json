@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealEngineProjects/warehouseproject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/UnrealEngineProjects/warehouseproject/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/UnrealEngineProjects/warehouseproject/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"D:/UnrealEngineProjects/warehouseproject/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+			]
+		}
+	]
+}
